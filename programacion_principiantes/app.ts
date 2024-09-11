@@ -1,13 +1,21 @@
 let NumbersOfCats = 1;
 
-NumbersOfCats++;
-console.log('Hola', NumbersOfCats);
+//* Funciones
 
-NumbersOfCats++;
-console.log('Hola', NumbersOfCats);
+function increaseLineNumber() {
 
-NumbersOfCats++;
-console.log('Hola' , NumbersOfCats);
+    NumbersOfCats+=3;
+
+}
+
+increaseLineNumber();
+console.log('Cat', NumbersOfCats);
+
+increaseLineNumber();
+console.log('Cat', NumbersOfCats);
+
+increaseLineNumber();
+console.log('Cat' , NumbersOfCats);
 
 
 
