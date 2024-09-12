@@ -1,19 +1,11 @@
-//* Funciones
+console.log("Tired?");
 
-let NumbersOfCats = 0;
+let isTired:boolean = true;
 
-function printLineNumber() {
-
-
-    NumbersOfCats = ++NumbersOfCats 
-    console.log("Pechurina", NumbersOfCats)
-
-
+if (isTired) {
+    console.log('Sleep');
+} else {
+    console.log('Chambee');
 }
 
-printLineNumber();
-printLineNumber();
-printLineNumber();
-printLineNumber();
-
-
+console.log("End");
