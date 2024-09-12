@@ -1,21 +1,21 @@
-let NumbersOfCats = 1;
+// let NumbersOfCatss = 1;
 
-//* Funciones
+// //* Funciones
 
-function increaseLineNumber() {
+// function increaseLineNumber() {
 
-    NumbersOfCats+=3;
+//     NumbersOfCatss+=3;
 
-}
+// }
 
-increaseLineNumber();
-console.log('Cat', NumbersOfCats);
+// increaseLineNumber();
+// console.log('Cat', NumbersOfCatss);
 
-increaseLineNumber();
-console.log('Cat', NumbersOfCats);
+// increaseLineNumber();
+// console.log('Cat', NumbersOfCatss);
 
-increaseLineNumber();
-console.log('Cat' , NumbersOfCats);
+// increaseLineNumber();
+// console.log('Cat' , NumbersOfCatss);
 
 
 
